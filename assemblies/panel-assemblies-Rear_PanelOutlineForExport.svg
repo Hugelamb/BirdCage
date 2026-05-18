@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="471.03599999999994mm"
+   height="576.236mm"
+   viewBox="0 0 471.03599999999994 576.236"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="panel-assemblies-Rear_PanelOutlineForExport.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.2794516"
+     inkscape:cx="1173.7274"
+     inkscape:cy="1041.3252"
+     inkscape:window-width="1528"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Part__Part2DObjectPython"
+     transform="translate(235.518000,288.118000) scale(1,-1)"
+     style="fill:none;stroke:#000000">
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;fill-rule:evenodd;stroke:none;stroke-linecap:square;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m -231.25,-283.84961 v 567.69922 h 158.074219 v -53.29883 c 0,-3.56638 2.884789,-6.45117 6.451172,-6.45117 H 66.724609 c 3.566383,0 6.451172,2.88479 6.451172,6.45117 v 53.29883 H 231.25 v -567 -0.34961 -0.34961 h -0.34961 -0.34961 z m 0.69922,0.69922 H 230.55078 V 283.15039 H 73.875 v -52.59961 c 0,-3.94469 -3.2057,-7.15039 -7.150391,-7.15039 H -66.724609 c -3.944691,0 -7.150391,3.2057 -7.150391,7.15039 v 52.59961 h -156.67578 z"
+       id="Part__Part2DObjectPython_w0000" />
+    <title
+       id="title1">b'Part__Part2DObjectPython'</title>
+  </g>
+</svg>
