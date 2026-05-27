@@ -1,0 +1,49 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "base_mesh": "pwm_controller_enclosure-Body (Meshed).stl",
+            "operator_mesh": "openconnect_negative_operator_2x3.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "104",
+            "y_rotation": "180",
+            "y_transform": "0",
+            "z_rotation": "0",
+            "z_transform": "2.7200000000000002"
+        },
+        "led_dimmer_backer": {
+            "base_mesh": "pwm_controller_enclosure-Body (Meshed).stl",
+            "operator_mesh": "openconnect3x2.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "104",
+            "y_rotation": "180",
+            "y_transform": "79",
+            "z_rotation": "90",
+            "z_transform": "2.7200000000000002"
+        },
+        "New set 2": {
+            "base_mesh": "LRS-350-24-CaseBaseVerticalFillets.stl",
+            "operator_mesh": "openconnectlrsv2.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "-35",
+            "y_rotation": "0",
+            "y_transform": "-1.5",
+            "z_rotation": "-90",
+            "z_transform": "2.5"
+        },
+        "New set 3": {
+            "base_mesh": "..\/stl\/BTTOctopusProv1.1_oCMount.stl",
+            "operator_mesh": ".\/openconnect-negatives-bttoct11.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "8",
+            "y_rotation": "0",
+            "y_transform": "10",
+            "z_rotation": "0",
+            "z_transform": "-2.7200000000000002"
+        }
+    }
+}
