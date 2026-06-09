@@ -34,14 +34,36 @@
             "z_rotation": "-90",
             "z_transform": "2.5"
         },
-        "New set 3": {
+        "BTTOct": {
             "base_mesh": "..\/stl\/BTTOctopusProv1.1_oCMount.stl",
-            "operator_mesh": ".\/openconnect-negatives-bttoct11.stl",
+            "operator_mesh": ".\/openconnect-negatives-bttoct11_w_lockv3.stl",
             "transform_units": "mm",
             "x_rotation": "0",
-            "x_transform": "8",
+            "x_transform": "0",
             "y_rotation": "0",
-            "y_transform": "10",
+            "y_transform": "0",
+            "z_rotation": "0",
+            "z_transform": "-2.7200000000000002"
+        },
+        "SSR": {
+            "base_mesh": "..\/stl\/ssrmountv3.stl",
+            "operator_mesh": "..\/stl\/openconnect-negatives_ssrv3.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "0",
+            "y_rotation": "0",
+            "y_transform": "0",
+            "z_rotation": "0",
+            "z_transform": "-2.7200000000000002"
+        },
+        "bttrelayv1.2": {
+            "base_mesh": "..\/stl\/bttrelaymount.stl",
+            "operator_mesh": "openconnect-negatives-bttrelayv1.stl",
+            "transform_units": "mm",
+            "x_rotation": "0",
+            "x_transform": "0",
+            "y_rotation": "0",
+            "y_transform": "8",
             "z_rotation": "0",
             "z_transform": "-2.7200000000000002"
         }

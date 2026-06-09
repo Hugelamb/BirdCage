@@ -1,0 +1,16 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "ssr": {
+            "d": "5",
+            "filletRadius": "3.5",
+            "h": "84",
+            "hole_size": "4.7000000000000002",
+            "hspace": "0",
+            "standoff_h": "0",
+            "standoff_x": "4",
+            "vspace": "48.25",
+            "w": "56"
+        }
+    }
+}
